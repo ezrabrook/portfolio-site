@@ -1,0 +1,6 @@
+{
+  "name": "Lindsey Rampton's Portfolio Site",
+  "tagline": "Developer Portfolio Site Built on WordPress",
+  "body": "# Built with WordPress\r\nThis WordPress site uses underscore as a base to build a beautiful parallax site. \r\n\r\n## Parallax Panes\r\nEach part of the homepage is using a parallax pane,  \r\n* Bio\r\n* Skills\r\n* Social \r\n* Resume\r\n* Contact\r\n\r\n#Theme Usage\r\nThe Republic is built with underscore, HTML5, CSS3, SASS (compiled locally with codekit), JavaScript, and occasional PHP tweaks to add in everything that the developer wanted to include. \r\n\r\n### Authors and Contributors\r\nI am Lindsey Rampton @parrottl (Parrott was my maiden name) and I'm starting this site in 2016. \r\n\r\n### Support or Contact\r\nHaving trouble or want to know the rules for using the theme or images? Contact me through [email](mailto:lindseyrampton@gmail.com). ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
